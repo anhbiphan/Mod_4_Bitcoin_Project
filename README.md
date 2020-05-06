@@ -17,7 +17,7 @@ Data Source: Yahoo Finance
 
 #### Solutions:
 - Using indicators to help identify the best possible prices to buy or sell.
-- MACD, RSI etc. 
+- MACD(Moving Average Convergence Divergence), RSI(Relative Strength Index), STD(Standard Deviation)
 
 #### Recommendations for further developments:
 - Add more indicators/feature engineering
